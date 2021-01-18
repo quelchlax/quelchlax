@@ -4,4 +4,6 @@
 
 :fire: Javascript Full Stack Developer
 
+:boom: Vue.js and Nuxt.js Enthusiast
+
 :sparkles: https://quelchlax.tech
