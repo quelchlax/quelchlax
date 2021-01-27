@@ -2,7 +2,7 @@
 
 :seedling: Web Development student at Fanshawe College
 
-:fire: Javascript Full Stack Developer
+:fire: Full Stack Developer
 
 :boom: Vue.js and Nuxt.js Enthusiast
 
