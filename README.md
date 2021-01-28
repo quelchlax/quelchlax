@@ -7,3 +7,5 @@
 :boom: Vue.js and Nuxt.js Enthusiast
 
 :sparkles: https://quelchlax.tech
+
+:seedling: https://the-beleaf.netlify.app
