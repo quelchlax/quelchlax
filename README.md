@@ -4,7 +4,7 @@
 
 :fire: Full Stack Developer
 
-:boom: Vue.js and Nuxt.js Enthusiast
+:boom: Vue.js, Nuxt.js, React.js, Next.js, Bulma, Node.js, Express
 
 :sparkles: https://quelchlax.tech
 
