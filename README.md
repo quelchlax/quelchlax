@@ -1,7 +1,11 @@
-# :rocket: Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 🚀 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-:fire: Full Stack Developer
+🔥 Full Stack Developer
 
-:sparkles: https://quelchlax.tech
+✨ Portfolio Mock Example: https://quelchlax.tech
 
-:seedling: https://the-beleaf.netlify.app
+🌱 Blog Example: https://the-beleaf.netlify.app
+
+🚧 Delivery Service: https://andthendelivery.netlify.app/
+
+📚 Resource Manager Mock Example: https://resource-manager-app-quelchx.vercel.app
