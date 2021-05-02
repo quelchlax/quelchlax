@@ -2,6 +2,11 @@
 
 🔥 Full Stack Developer
 
-![quelchx GitHub Stats](https://github-readme-stats.vercel.app/api?username=quelchx&show_icons=true)
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelchx&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Quelchx GitHub stats](https://github-readme-stats.vercel.app/api?username=quelchx&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
