@@ -8,6 +8,6 @@
 
 🔖  Nimble is based off Vite's npm package for Vue 3, but with some addition setup to help myself, and other's get a Vue 3 project up and running with some additional Vue packages availible in it's ecosystem quickly. 
 
-🚧 (Under construction!) Check out a Lightweight Typewriter component for your next Vue.js project <a href='https://www.npmjs.com/package/vue-writer'>Vue Writer</a>
+🕹️ <a href='https://www.npmjs.com/package/vue-writer'>Vue Writer</a> Check out a Lightweight Typewriter component for your next Vue.js project 
 
 
