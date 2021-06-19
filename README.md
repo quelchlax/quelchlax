@@ -1,7 +1,5 @@
 # 🚀 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c106c58-1e01-407f-afac-6f21e3a75a89/deploy-status)](https://app.netlify.com/sites/awesome-hamilton-609d6e/deploys)
-
 🔥  Full Web Stack Developer 
 
 🌱 Check out my <a href='https://quelchlax.tech' target="_blank"> My Personal Portfolio</a> and resume.
